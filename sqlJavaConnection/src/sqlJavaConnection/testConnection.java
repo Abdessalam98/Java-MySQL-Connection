@@ -11,6 +11,10 @@ public class testConnection {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		readData();
+		
+		//Hello this is a test to commit from eclipse
+		
+		System.out.println("Hello there !");
 	}
 
 	public static void readData() {
